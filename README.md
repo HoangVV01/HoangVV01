@@ -3,9 +3,6 @@ Hi 👋 My name is Hoang
 
 Web Developer
 -------------
-
-I've been learning to code for 3 years.
-
 * 🌍  I'm based in Ha Noi
 * 🖥️  See my portfolio at [Portfolio](http://zkopstickz.wixsite.com/bluesoda21)
 * ✉️  You can contact me at [kryptospak@gmail.com](mailto:kryptospak@gmail.com)
